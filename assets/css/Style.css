@@ -1,5 +1,5 @@
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: blue;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -9,3 +9,13 @@ button {
     font-size: 16px;
     margin: 10px;
   }
+
+  #vacation-view {
+    position: relative;
+  }
+
+  body {
+    background-image: url("cloudy background.jpg" ); 
+  }
+
+  
